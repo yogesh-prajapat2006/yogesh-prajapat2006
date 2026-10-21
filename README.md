@@ -41,31 +41,30 @@ A desktop application for managing hospital appointments and patient records.
 
 ---
 
-## 🛠️ Technical Skills
+# 💻 Tech Stack:
 
-**Programming Languages**
+### 👨‍💻 Programming Languages
 
-* Python, C++, JavaScript
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
 
-**Machine Learning & Data Science**
+### 🤖 Machine Learning & Data Science
 
-* NumPy, Pandas, Matplotlib, Scikit-learn
-* Sentiment Analysis, Decision Trees, K-Means Clustering
-* Statistics and Data Analysis
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge\&logo=Matplotlib\&logoColor=black) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 
-**Web Development**
+![Statistics](https://img.shields.io/badge/Statistics-4682B4?style=for-the-badge) ![Data%20Analysis](https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge) ![Sentiment%20Analysis](https://img.shields.io/badge/Sentiment%20Analysis-8A2BE2?style=for-the-badge) ![Decision%20Trees](https://img.shields.io/badge/Decision%20Trees-FF8C00?style=for-the-badge) ![K--Means%20Clustering](https://img.shields.io/badge/K--Means%20Clustering-008B8B?style=for-the-badge)
 
-* HTML, CSS, JavaScript, Flask, REST APIs
+### 🌐 Web Development & APIs
 
-**Database**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge\&logo=flask\&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
 
-* MySQL, SQL
+### 🗄️ Database
 
-**Tools**
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-* Git, GitHub, Docker, n8n
+### ⚙️ Tools & Automation
 
----
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+
 
 ## 🌐 Connect With Me
 
