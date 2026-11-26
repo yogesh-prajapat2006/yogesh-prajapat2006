@@ -1,4 +1,4 @@
-# Hii, I'm Yogesh Prajapat 👋
+# Hi, I'm Yogesh Prajapat 👋
 
 ### Aspiring Machine Learning Engineer | B.Tech CSE (Data Science)
 
